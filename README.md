@@ -46,6 +46,13 @@ Algunas recomendaciones a continuación:
 
 > Guía rápida de _Markdown_ en [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
 
+### Guías de Estilo
+
+A continuación enlaces a guías de estilo en la escritura de código para algunos lenguajes de programación.
+
+- Python: [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/ "Guía de estilo para python")
+- C : [https://www.python.org/dev/peps/pep-0007/](https://www.python.org/dev/peps/pep-0007/ "Guía de estilo para C")
+
 ## Proyectos en GitHub
 
 Para cada proyecto de tesis (o proyecto halley) se creará un proyecto en _GitHub_, cuyo nombre seguirá el formato **tesisJPerez** (Para la **tesis** de **J**osé **Perez**). Al proyecto se agregará como colaborador con rol de **Administrador** al usuario [nunezluis](https://github.com/nunezluis "GutHub Luis Núñez").
