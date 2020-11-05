@@ -74,6 +74,8 @@ En el tablero del proyecto se crearán cuatro columnas de la siguiente manera:
 3. In Progress: Actividades (Issues) realizandose en el momento.
 4. Done: Actividades (Issues) realizadas.
 
+Las columnas To Do, In Progres y Done se crean automaticamente seleccionando la opción **"Automated kanban template"** en el formulario de cfreación del proyecto.
+
 > Para todo lo demás existen los servicios de busqueda, foros y páginas de ayuda, especialmente la de [ayuda de _GitHub_](https://help.github.com/es "Ayuda de GitHub"). 
 
 ## Gestión de Datos
